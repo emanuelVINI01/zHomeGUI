@@ -1,0 +1,22 @@
+limites:
+  1:
+    permissao: zhomegui.default
+    homes: 5
+  2:
+    permissao: zhomegui.vip
+    homes: 10
+  3:
+    permissao: zhomegui.mvp
+    homes: 15
+  4:
+    permissao: zhomegui.mvp+
+    homes: 15
+delay: 3
+nomedomenu: "§bMenu de Homes"
+menu:
+  home:
+    material: STONE
+    nome: §eHome %s
+    lore:
+      - §eIr para a home
+data:
