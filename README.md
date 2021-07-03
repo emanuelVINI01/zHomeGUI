@@ -1,2 +1,2 @@
 # zHomeGUI
-Homes eu uma GUI.
+Homes em uma GUI.
